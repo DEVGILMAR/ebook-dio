@@ -20,7 +20,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema do filme interestelar, o ebookk é introduçao em algoritmo, o título deve ser épico e curto, e tenha uma temática do filme interestelar no título, me liste 5 variações de títulos                                                        |
+|  título  | Crie um título de um ebook sobre o tema do filme interestelar, o ebook é uma introduçao em algoritmo, o título deve ser épico e curto, e tenha uma temática do filme interestelar no título, me liste 5 variações de títulos                                                        |
 | conteúdo | Faça um texto para ebook , com foco em algoritimo na programação, introduzindo os conceitos e praticas em algoritimo {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
