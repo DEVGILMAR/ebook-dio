@@ -1,6 +1,6 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
-<dio.pdf> 📕Clique aqui para ler</a>
+<[dio.pdf](https://github.com/DEVGILMAR/ebook-dio/blob/d063cf4e96d1276d22e5a6b2d0a9e38baca90140/dio.pdf)> 📕Clique aqui para ler</a>
 
  
 
